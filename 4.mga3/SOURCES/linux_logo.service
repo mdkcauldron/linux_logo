@@ -1,0 +1,11 @@
+[Unit]
+Description=Add linux logo to motd/issue
+DefaultDependencies=no
+After=local-fs.target
+
+[Service]
+ExecStart=-/etc/init.d/linux_logo
+Type=oneshot
+TimeoutSec=0
+StandardInput=tty
+RemainAfterExit=yes
