@@ -1,9 +1,9 @@
 Summary:	ASCII Tux (Linux Penguin)
 Name:		linux_logo
 Version:	5.11
-Release:	%mkrel 5
+Release:	%mkrel 6
 License:	GPLv2
-Group:		System/Configuration/Boot and Init
+Group:		System/Boot and Init
 Source0:	http://www.deater.net/weave/vmwprod/linux_logo/%{name}-%{version}.tar.gz
 Source1:    mga.logo
 Source2:    linux_logo.service
