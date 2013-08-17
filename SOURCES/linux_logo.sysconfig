@@ -1,7 +1,0 @@
-# linux_logo behavior
-
-# Should linux_logo fill /etc/issue
-ISSUE=yes
-
-# Should linux_logo fill /etc/motd
-MOTD=no
