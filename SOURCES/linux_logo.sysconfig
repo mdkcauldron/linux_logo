@@ -1,7 +1,7 @@
 # linux_logo behavior
 
-# Should linux logo must fill /etc/issue.net
+# Should linux_logo fill /etc/issue
 ISSUE=yes
 
-# Should linux logo must fill /etc/motd.net
+# Should linux_logo fill /etc/motd
 MOTD=no
