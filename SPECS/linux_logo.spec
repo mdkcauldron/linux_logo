@@ -1,7 +1,7 @@
 Summary:	ASCII Tux (Linux Penguin)
 Name:		linux_logo
 Version:	5.11
-Release:	%mkrel 10
+Release:	%mkrel 11
 License:	GPLv2
 Group:		System/Boot and Init
 URL:		http://www.deater.net/weave/vmwprod/linux_logo/
